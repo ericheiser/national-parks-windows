@@ -1,4 +1,6 @@
 # National Parks - Java Tomcat Application - Windows Edition
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/d9b89a15-f34e-4f35-aeb3-a67ca190e8fc.svg)](https://app.soluble.cloud/repos/details/github.com/ericheiser/national-parks-windows)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/57d760d0-91ca-4967-9b98-8d3b42739c67.svg)](https://app.soluble.cloud/repos/details/github.com/ericheiser/national-parks-windows)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/06f6e150-91c4-4ee3-a2ef-5d5d6282285f.svg)](https://app.soluble.cloud/repos/details/github.com/ericheiser/national-parks-windows)  
 This is an example Java Tomcat application packaged by [Habitat](https://habitat.sh). This example app has existed for some time, and another example can be found [here](https://github.com/habitat-sh/national-parks). The differences with this example versus previous examples are the following:
 
 - `winhab/mongodb` - Previous examples had you build a version of mongodb that was already populated with data before the application 
